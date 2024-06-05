@@ -1,0 +1,17 @@
+{
+    "lang": " en-us",
+    "name": "Shapez Scam Edition",
+    "short_name": "Shapez SE",
+    "description": "A version of Shapez that comnpiled myself and removed the steam lock on for your entertainment and unblocked gaming",
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "theme": "#AAAAAA",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/logo.webp",
+            "sizes": "200x200"
+        }
+    ]
+}
