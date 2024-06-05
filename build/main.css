@@ -321,9 +321,9 @@ body.externalAdOpen::before {
   justify-content: center;
   align-items: center;
   color: #fff;
-  animation: autogen_anim_uopplrl 1s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhk7v 1s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopplrl {
+@keyframes autogen_anim_uvuhk7v {
   50% {
     transform: scale(1.05);
   }
@@ -621,7 +621,7 @@ canvas {
   opacity: 1;
   z-index: 20;
   color: #393747;
-  animation: autogen_anim_uoppls5 1.5s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhk8v 1.5s ease-in-out infinite !important;
 }
 .prefab_LoadingTextWithAnim::after,
 .prefab_LoadingTextWithAnimDelayed::after {
@@ -635,7 +635,7 @@ canvas {
 .prefab_LoadingTextWithAnimDelayed::after {
   background: url('data:image/svg+xml;charset=utf-8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20style%3D%22margin%3A%20auto%3B%20background%3A%20none%3B%20display%3A%20block%3B%20shape-rendering%3A%20auto%3B%20animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20width%3D%22200px%22%20height%3D%22200px%22%20viewBox%3D%220%200%20100%20100%22%20preserveAspectRatio%3D%22xMidYMid%22%3E%0A%3Cg%20transform%3D%22translate(50%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%0A%20%20%3Cg%20transform%3D%22scale(0.8)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(-50%20-50)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(65.6099%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%221.3157894736842106s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%231d3f72%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(319.208%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%221.7543859649122806s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%235699d2%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20transform%3D%22rotate(90%2050%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(212.805%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%222.6315789473684212s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%23d8ebf9%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20transform%3D%22rotate(180%2050%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(106.402%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%225.2631578947368425s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%2371c2cc%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20transform%3D%22rotate(270%2050%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fg%3E%0A%3C!--%20%5Bldio%5D%20generated%20by%20https%3A%2F%2Floading.io%2F%20--%3E%3C%2Fsvg%3E') center center/contain no-repeat;
 }
-@keyframes autogen_anim_uoppls5 {
+@keyframes autogen_anim_uvuhk8v {
   50% {
     transform: scale(1.2) rotate(160deg);
   }
@@ -647,9 +647,9 @@ html[data-theme=dark] .prefab_LoadingTextWithAnimDelayed,
 }
 
 .prefab_LoadingTextWithAnimDelayed {
-  animation: autogen_anim_uoppls7 0.6s ease-in-out !important;
+  animation: autogen_anim_uvuhk9f 0.6s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppls7 {
+@keyframes autogen_anim_uvuhk9f {
   0% {
     opacity: 0;
   }
@@ -726,9 +726,9 @@ html[data-theme=dark] .prefab_LoadingTextWithAnimDelayed,
   width: 100%;
   display: flex;
   flex-grow: 1;
-  animation: autogen_anim_uopplsq 1.5s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhka2 1.5s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopplsq {
+@keyframes autogen_anim_uvuhka2 {
   50% {
     transform: scale(1.2) rotate(160deg);
   }
@@ -795,9 +795,9 @@ html[data-theme=dark] .gameState.prefab_LoadingState .loadingStatus, .gameState.
   background-color: #393747;
   border-radius: calc(6px * var(--ui-scale));
   transform-origin: 0% 50%;
-  animation: autogen_anim_uopplt4 1.3s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkao 1.3s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopplt4 {
+@keyframes autogen_anim_uvuhkao {
   0% {
     background-color: #2d2c39;
     transform: none;
@@ -1176,7 +1176,7 @@ html[data-theme=dark] .gameState.textualState > .container > .content, .gameStat
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: autogen_anim_uoppltj 1s ease-in-out !important;
+  animation: autogen_anim_uvuhkc4 1s ease-in-out !important;
 }
 #adinplayVideoContainer *, #adinplayVideoContainer {
   pointer-events: all;
@@ -1195,9 +1195,9 @@ html[data-theme=dark] .gameState.textualState > .container > .content, .gameStat
   left: 0;
   right: 0;
   bottom: 0;
-  animation: autogen_anim_uoppltd 0.2s ease-in-out !important;
+  animation: autogen_anim_uvuhkbd 0.2s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppltd {
+@keyframes autogen_anim_uvuhkbd {
   0% {
     opacity: 0;
   }
@@ -1208,7 +1208,7 @@ html[data-theme=dark] .gameState.textualState > .container > .content, .gameStat
 #adinplayVideoContainer.waitingForFinish .videoInner::after {
   background: rgba(222, 225, 234, 0.9) url('data:image/svg+xml;charset=utf-8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20style%3D%22margin%3A%20auto%3B%20background%3A%20none%3B%20display%3A%20block%3B%20shape-rendering%3A%20auto%3B%20animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20width%3D%22200px%22%20height%3D%22200px%22%20viewBox%3D%220%200%20100%20100%22%20preserveAspectRatio%3D%22xMidYMid%22%3E%0A%3Cg%20transform%3D%22translate(50%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%0A%20%20%3Cg%20transform%3D%22scale(0.8)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(-50%20-50)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(65.6099%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%221.3157894736842106s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%231d3f72%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(319.208%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%221.7543859649122806s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%235699d2%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20transform%3D%22rotate(90%2050%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(212.805%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%222.6315789473684212s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%23d8ebf9%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20transform%3D%22rotate(180%2050%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%20%20%3Cg%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%20transform%3D%22rotate(106.402%2050%2050)%22%3E%0A%20%20%20%20%20%20%20%20%3CanimateTransform%20attributeName%3D%22transform%22%20type%3D%22rotate%22%20repeatCount%3D%22indefinite%22%20values%3D%220%2050%2050%3B360%2050%2050%22%20keyTimes%3D%220%3B1%22%20dur%3D%225.2631578947368425s%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2FanimateTransform%3E%0A%20%20%20%20%20%20%20%20%3Cpath%20fill-opacity%3D%220.8%22%20fill%3D%22%2371c2cc%22%20d%3D%22M50%2050L50%200A50%2050%200%200%201%20100%2050Z%22%20transform%3D%22rotate(270%2050%2050)%22%20style%3D%22animation-play-state%3A%20running%3B%20animation-delay%3A%200s%3B%22%3E%3C%2Fpath%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fg%3E%0A%3C!--%20%5Bldio%5D%20generated%20by%20https%3A%2F%2Floading.io%2F%20--%3E%3C%2Fsvg%3E') center center/calc(60px * var(--ui-scale)) no-repeat;
 }
-@keyframes autogen_anim_uoppltj {
+@keyframes autogen_anim_uvuhkc4 {
   0% {
     background: rgba(222, 225, 234, 0.1);
   }
@@ -1256,7 +1256,7 @@ html[data-theme=dark] .gameState.textualState > .container > .content, .gameStat
 }
 #state_WegameSplashState .wrapper {
   opacity: 0;
-  animation: autogen_anim_uopplu6 5.9s ease-in-out !important;
+  animation: autogen_anim_uvuhkc9 5.9s ease-in-out !important;
   text-align: center;
   color: #fff;
   font-size: calc(19px * var(--ui-scale));
@@ -1265,7 +1265,7 @@ html[data-theme=dark] .gameState.textualState > .container > .content, .gameStat
   font-family: "GameFont", sans-serif;
   letter-spacing: 0.01em;
 }
-@keyframes autogen_anim_uopplu6 {
+@keyframes autogen_anim_uvuhkc9 {
   0% {
     opacity: 0;
   }
@@ -1366,7 +1366,7 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  animation: autogen_anim_uopplv4 0.3s ease-in-out !important;
+  animation: autogen_anim_uvuhkd1 0.3s ease-in-out !important;
 }
 #state_PreloadState .failureBox .logo {
   margin-bottom: calc(30px * var(--ui-scale));
@@ -1374,7 +1374,7 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
 #state_PreloadState .failureBox .logo img {
   width: calc(240px * var(--ui-scale));
 }
-@keyframes autogen_anim_uopplv4 {
+@keyframes autogen_anim_uvuhkd1 {
   0% {
     opacity: 0;
   }
@@ -1533,9 +1533,9 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
 #state_MainMenuState .fullscreenBackgroundVideo.loaded {
   display: block;
   opacity: 0.4;
-  animation: autogen_anim_uopplw0 0.1s ease-in-out !important;
+  animation: autogen_anim_uvuhkdg 0.1s ease-in-out !important;
 }
-@keyframes autogen_anim_uopplw0 {
+@keyframes autogen_anim_uvuhkdg {
   0% {
     opacity: 0;
   }
@@ -1591,9 +1591,9 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
   background: #d63ce4;
   border-radius: calc(6px * var(--ui-scale));
   padding: calc(0px * var(--ui-scale)) calc(5px * var(--ui-scale)) calc(1px * var(--ui-scale)) calc(5px * var(--ui-scale));
-  animation: autogen_anim_uopplww 1.3s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkdo 1.3s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopplww {
+@keyframes autogen_anim_uvuhkdo {
   50% {
     transform: translateX(50%) rotate(-7deg) scale(1.1);
   }
@@ -1752,12 +1752,12 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
   border-radius: calc(6px * var(--ui-scale));
   color: transparent;
   box-shadow: 0 calc(3px * var(--ui-scale)) calc(7px * var(--ui-scale)) rgba(0, 0, 0, 0.3);
-  animation: autogen_anim_uopplxc 1s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkef 1s ease-in-out infinite !important;
 }
 #state_MainMenuState .sideContainer .standaloneBanner .steamLink:hover {
   opacity: 0.9;
 }
-@keyframes autogen_anim_uopplxc {
+@keyframes autogen_anim_uvuhkef {
   50% {
     transform: scale(1.02, 1.03);
   }
@@ -1788,9 +1788,9 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
   align-self: center;
   text-align: center;
   margin-top: calc(5px * var(--ui-scale));
-  animation: autogen_anim_uopply4 1s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhker 1s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopply4 {
+@keyframes autogen_anim_uvuhker {
   50% {
     transform: scale(1.02, 1.03) translateY(2%);
   }
@@ -1930,9 +1930,9 @@ html[data-theme=dark] #state_PreloadState .changelogDialogEntry, #state_PreloadS
   font-family: "GameFont", sans-serif;
   letter-spacing: 0.01em;
   font-weight: bold;
-  animation: autogen_anim_uopplya 1.3s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkf9 1.3s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopplya {
+@keyframes autogen_anim_uvuhkf9 {
   50% {
     transform: translateX(50%) rotate(12deg) scale(1.1);
   }
@@ -2902,9 +2902,9 @@ html[data-theme=dark] #state_KeybindingsState .content .category .entry button, 
   background: #d63ce4;
   margin-left: auto;
   padding: calc(0px * var(--ui-scale)) calc(3px * var(--ui-scale)) calc(0px * var(--ui-scale)) calc(3px * var(--ui-scale));
-  animation: autogen_anim_uopplyd 1.3s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkfp 1.3s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uopplyd {
+@keyframes autogen_anim_uvuhkfp {
   50% {
     transform: rotate(0deg) scale(1.1);
   }
@@ -3348,13 +3348,13 @@ html[data-theme=dark] #state_PuzzleMenuState > .container > .mainContent > .cate
   cursor: pointer;
   position: relative;
   padding-left: calc(10px * var(--ui-scale));
-  animation: autogen_anim_uopplyg 0.12s ease-in-out !important;
+  animation: autogen_anim_uvuhkg2 0.12s ease-in-out !important;
 }
 html[data-theme=dark] #state_PuzzleMenuState > .container > .mainContent > .puzzles > .puzzle, #state_PuzzleMenuState > .container > .mainContent > .puzzles > .puzzle[data-theme=dark] {
   background: rgba(0, 0, 10, 0.2);
 }
 
-@keyframes autogen_anim_uopplyg {
+@keyframes autogen_anim_uvuhkg2 {
   0% {
     opacity: 0;
   }
@@ -3758,13 +3758,13 @@ html[data-tutorial-step="1_1_extractor"] .ingame_buildingsToolbar .buildings .bu
   left: 50%;
   bottom: 100%;
   transform: translateX(-50%);
-  animation: autogen_anim_uopplza 1s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkg6 1s ease-in-out infinite !important;
 }
 html[data-tutorial-step="1_1_extractor"] .ingame_buildingsToolbar .buildings .building[data-id=miner]:not(.selected)::before, html[data-tutorial-step="1_2_conveyor"] .ingame_buildingsToolbar .buildings .building[data-id=belt]:not(.selected)::before, html[data-tutorial-step="2_1_place_cutter"] .ingame_buildingsToolbar .buildings .building[data-id=cutter]:not(.selected)::before, html[data-tutorial-step="2_2_place_trash"] .ingame_buildingsToolbar .buildings .building[data-id=trash]:not(.selected)::before {
   /* load-async */
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAPYAAAD2AFuR2M1AAAGnmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNy4xLWMwMDAgNzkuZGFiYWNiYiwgMjAyMS8wNC8xNC0wMDozOTo0NCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIzLjAgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDIyLTA2LTIwVDA4OjQwOjE1KzAyOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMi0wNi0yMFQwOTo0MToxNCswMjowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAyMi0wNi0yMFQwOTo0MToxNCswMjowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OTExOGUxZDItNzM1Zi00MTJlLTllMmEtOGI2OWNiN2EzZGJmIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6MTQwNzZmZWEtMTcxZS02ZjQ4LTg1YmUtNWMwM2QzZTFmYmU0IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6MjNjYTZiM2YtYjU4MS00ZTQzLWI2OGMtODgxZDAxZjhjMzNhIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyM2NhNmIzZi1iNTgxLTRlNDMtYjY4Yy04ODFkMDFmOGMzM2EiIHN0RXZ0OndoZW49IjIwMjItMDYtMjBUMDg6NDA6MTUrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMy4wIChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyYmZjMzEyYS05ZGQwLTRlOTgtOTBiMC02MDY3M2U0ODA2OGEiIHN0RXZ0OndoZW49IjIwMjItMDYtMjBUMDk6Mzg6NTYrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMy4wIChNYWNpbnRvc2gpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDo5MTE4ZTFkMi03MzVmLTQxMmUtOWUyYS04YjY5Y2I3YTNkYmYiIHN0RXZ0OndoZW49IjIwMjItMDYtMjBUMDk6NDE6MTQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMy4wIChNYWNpbnRvc2gpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pvu5NqEAAAkPSURBVHic7Z1fiBvHHce/s5K5pMR2OBfTNpTYCU1oS+uXFkKK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') center center/contain no-repeat;
 }
-@keyframes autogen_anim_uopplza {
+@keyframes autogen_anim_uvuhkg6 {
   50% {
     transform: translateX(-50%) translateY(20%);
   }
@@ -4131,9 +4131,9 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
   bottom: 0;
   overflow: auto;
   pointer-events: all;
-  animation: autogen_anim_uoppm04 0.1s ease-in-out !important;
+  animation: autogen_anim_uvuhkgl 0.1s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm04 {
+@keyframes autogen_anim_uvuhkgl {
   0% {
     opacity: 0;
   }
@@ -4144,14 +4144,14 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
 #ingame_HUD_UnlockNotification .dialog {
   border-radius: calc(6px * var(--ui-scale));
   padding: calc(30px * var(--ui-scale));
-  animation: autogen_anim_uoppm0b 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkhg 0.5s ease-in-out !important;
   display: flex;
   align-items: center;
   flex-direction: column;
   color: #fff;
   text-align: center;
 }
-@keyframes autogen_anim_uoppm0b {
+@keyframes autogen_anim_uvuhkhg {
   0% {
     opacity: 0;
   }
@@ -4165,9 +4165,9 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
   letter-spacing: 0.01em;
   text-transform: uppercase;
   font-size: calc(40px * var(--ui-scale));
-  animation: autogen_anim_uoppm19 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhki7 0.5s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm19 {
+@keyframes autogen_anim_uvuhki7 {
   0% {
     transform: translateY(-50vh);
   }
@@ -4188,9 +4188,9 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
   margin: calc(5px * var(--ui-scale)) calc(0px * var(--ui-scale)) calc(20px * var(--ui-scale));
   color: #66bb6a;
   border-radius: calc(6px * var(--ui-scale));
-  animation: autogen_anim_uoppm23 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkia 0.5s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm23 {
+@keyframes autogen_anim_uvuhkia {
   0% {
     transform: translateY(-60vh);
   }
@@ -4203,14 +4203,14 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
 }
 #ingame_HUD_UnlockNotification .dialog .contents {
   width: calc(400px * var(--ui-scale));
-  animation: autogen_anim_uoppm2v 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkiz 0.5s ease-in-out !important;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   grid-gap: calc(10px * var(--ui-scale));
 }
-@keyframes autogen_anim_uoppm2v {
+@keyframes autogen_anim_uvuhkiz {
   0% {
     transform: translateX(-100vw);
   }
@@ -4224,9 +4224,9 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
 #ingame_HUD_UnlockNotification .dialog .contents .rewardName {
   grid-column: 1/3;
   display: none;
-  animation: autogen_anim_uoppm32 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkj6 0.5s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm32 {
+@keyframes autogen_anim_uvuhkj6 {
   0% {
     transform: translateX(200vw);
   }
@@ -4287,9 +4287,9 @@ body.uiHidden #ingame_HUD_KeybindingOverlay .binding:not(.hudToggle) {
   right: 0;
   bottom: 0;
   background: rgba(0, 10, 20, 0.8);
-  animation: autogen_anim_uoppm38 1.5s linear !important;
+  animation: autogen_anim_uvuhkjj 1.5s linear !important;
 }
-@keyframes autogen_anim_uoppm38 {
+@keyframes autogen_anim_uvuhkjj {
   0% {
     left: 0;
   }
@@ -4443,9 +4443,9 @@ html[data-theme=dark] #ingame_HUD_Shop .content .upgrade .requirements .requirem
 }
 #ingame_HUD_Shop .content .upgrade .requirements .requirement button.pin.pinned {
   opacity: 0.6;
-  animation: autogen_anim_uoppm3k 0.3s ease-in-out !important;
+  animation: autogen_anim_uvuhkkb 0.3s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm3k {
+@keyframes autogen_anim_uvuhkkb {
   0% {
     opacity: 1;
     transform: scale(0.8);
@@ -4463,9 +4463,9 @@ html[data-theme=dark] #ingame_HUD_Shop .content .upgrade .requirements .requirem
 }
 #ingame_HUD_Shop .content .upgrade .requirements .requirement button.pin.unpinned {
   opacity: 0.6;
-  animation: autogen_anim_uoppm3s 0.3s ease-in-out !important;
+  animation: autogen_anim_uvuhkl3 0.3s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm3s {
+@keyframes autogen_anim_uvuhkl3 {
   0% {
     opacity: 1;
     transform: scale(0.8);
@@ -4568,9 +4568,9 @@ html[data-theme=dark] #ingame_HUD_Shop .content .upgrade .requirements .requirem
   opacity: 0.3;
 }
 #ingame_HUD_Shop .content .upgrade button.buy.buyable {
-  animation: autogen_anim_uoppm3y 1s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkl8 1s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uoppm3y {
+@keyframes autogen_anim_uvuhkl8 {
   50% {
     background-color: #89cb8c;
     transform: scale(1.02);
@@ -4641,7 +4641,7 @@ html[data-theme=dark] #ingame_HUD_GameMenu > .button,
 #ingame_HUD_GameMenu > .button.save {
   grid-column: 3;
 }
-@keyframes autogen_anim_uoppm41_even {
+@keyframes autogen_anim_uvuhkm6_even {
   0% {
     transform: scale(1, 1);
   }
@@ -4657,7 +4657,7 @@ html[data-theme=dark] #ingame_HUD_GameMenu > .button,
     transform: scale(1.1, 1.1);
   }
 }
-@keyframes autogen_anim_uoppm41_odd {
+@keyframes autogen_anim_uvuhkm6_odd {
   0% {
     transform: scale(1, 1);
   }
@@ -4675,19 +4675,19 @@ html[data-theme=dark] #ingame_HUD_GameMenu > .button,
 }
 #ingame_HUD_GameMenu > button.save.animEven,
 #ingame_HUD_GameMenu > .button.save.animEven {
-  animation: autogen_anim_uoppm41_even 0.5s ease-in-out;
+  animation: autogen_anim_uvuhkm6_even 0.5s ease-in-out;
 }
 #ingame_HUD_GameMenu > button.save.animOdd,
 #ingame_HUD_GameMenu > .button.save.animOdd {
-  animation: autogen_anim_uoppm41_odd 0.5s ease-in-out;
+  animation: autogen_anim_uvuhkm6_odd 0.5s ease-in-out;
 }
 #ingame_HUD_GameMenu > button.save.saving,
 #ingame_HUD_GameMenu > .button.save.saving {
-  animation: autogen_anim_uoppm4b 0.4s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkm9 0.4s ease-in-out infinite !important;
   pointer-events: none;
   cursor: default;
 }
-@keyframes autogen_anim_uoppm4b {
+@keyframes autogen_anim_uvuhkm9 {
   50% {
     opacity: 0.5;
     transform: scale(0.8);
@@ -4709,14 +4709,14 @@ html[data-theme=dark] #ingame_HUD_GameMenu > .button,
 #ingame_HUD_GameMenu > button.hasBadge,
 #ingame_HUD_GameMenu > .button.hasBadge {
   transform-origin: 50% 50%;
-  animation: autogen_anim_uoppm51 0.8s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkmd 0.8s ease-in-out infinite !important;
 }
 #ingame_HUD_GameMenu > button.hasBadge.shop,
 #ingame_HUD_GameMenu > .button.hasBadge.shop {
   filter: none;
   opacity: 0.9;
 }
-@keyframes autogen_anim_uoppm51 {
+@keyframes autogen_anim_uvuhkmd {
   50% {
     transform: scale(1.3) rotate(6deg);
   }
@@ -4748,9 +4748,9 @@ html[data-theme=dark] #ingame_HUD_GameMenu > .button,
   display: flex;
   align-items: center;
   justify-content: center;
-  animation: autogen_anim_uoppm5s 0.12s ease-in-out !important;
+  animation: autogen_anim_uvuhkmh 0.12s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm5s {
+@keyframes autogen_anim_uvuhkmh {
   0% {
     background-color: transparent;
     opacity: 0.5;
@@ -4761,9 +4761,9 @@ html[data-theme=dark] #ingame_HUD_GameMenu > .button,
 }
 html[data-theme=dark] .ingameDialog, .ingameDialog[data-theme=dark] {
   background: rgba(72, 76, 88, 0.9);
-  animation: autogen_anim_uoppm5z 0.12s ease-in-out !important;
+  animation: autogen_anim_uvuhknd 0.12s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm5z {
+@keyframes autogen_anim_uvuhknd {
   0% {
     background-color: transparent;
     opacity: 0.5;
@@ -5009,9 +5009,9 @@ html[data-theme=dark] .ingameDialog > .dialogInner > .content .dialogModsMod, .i
   content: " ";
   display: inline-block;
   background: rgba(255, 255, 255, 0.6);
-  animation: autogen_anim_uoppm6v 1s linear !important;
+  animation: autogen_anim_uvuhknu 1s linear !important;
 }
-@keyframes autogen_anim_uoppm6v {
+@keyframes autogen_anim_uvuhknu {
   0% {
     width: 100%;
   }
@@ -5360,7 +5360,7 @@ html[data-theme=dark] #ingame_HUD_PinnedShapes > .shape > .unpinButton, #ingame_
   width: calc(150px * var(--ui-scale));
   transform-origin: 100% 50%;
   opacity: 0;
-  animation: autogen_anim_uoppm7q 3s ease-in-out !important;
+  animation: autogen_anim_uvuhkon 3s ease-in-out !important;
 }
 html[data-theme=dark] #ingame_HUD_Notifications .notification, #ingame_HUD_Notifications .notification[data-theme=dark] {
   background-color: rgba(85, 89, 93, 0.8);
@@ -5373,7 +5373,7 @@ html[data-theme=dark] #ingame_HUD_Notifications .notification, #ingame_HUD_Notif
   background-repeat: no-repeat;
   background-size: calc(15px * var(--ui-scale));
 }
-@keyframes autogen_anim_uoppm7q {
+@keyframes autogen_anim_uvuhkon {
   0% {
     opacity: 1;
   }
@@ -5644,11 +5644,11 @@ html[data-theme=dark] #ingame_HUD_TutorialHints .header > span, #ingame_HUD_Tuto
   grid-column: 2/3;
 }
 #ingame_HUD_TutorialHints.enlarged video {
-  animation: autogen_anim_uoppm82 0.2s ease-in-out !important;
+  animation: autogen_anim_uvuhkpl 0.2s ease-in-out !important;
   opacity: 1;
   width: calc(500px * var(--ui-scale));
 }
-@keyframes autogen_anim_uoppm82 {
+@keyframes autogen_anim_uvuhkpl {
   0% {
     opacity: 0;
     width: calc(0px * var(--ui-scale));
@@ -5700,10 +5700,10 @@ html[data-theme=dark] #ingame_HUD_TutorialHints .header > span, #ingame_HUD_Tuto
   opacity: 0.7;
 }
 #ingame_HUD_Watermark.visible {
-  animation: autogen_anim_uoppm8a 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkq2 0.5s ease-in-out !important;
   opacity: 1;
 }
-@keyframes autogen_anim_uoppm8a {
+@keyframes autogen_anim_uvuhkq2 {
   0% {
     opacity: 0;
   }
@@ -5712,9 +5712,9 @@ html[data-theme=dark] #ingame_HUD_TutorialHints .header > span, #ingame_HUD_Tuto
   }
 }
 #ingame_HUD_Watermark:not(.visible) {
-  animation: autogen_anim_uoppm93 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkq9 0.5s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm93 {
+@keyframes autogen_anim_uvuhkq9 {
   0% {
     opacity: 1;
   }
@@ -5767,9 +5767,9 @@ html[data-theme=dark] #ingame_HUD_TutorialHints .header > span, #ingame_HUD_Tuto
   letter-spacing: 0.01em;
   text-transform: uppercase;
   transform: rotate(0deg);
-  animation: autogen_anim_uoppm9i 1.3s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkqq 1.3s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uoppm9i {
+@keyframes autogen_anim_uvuhkqq {
   50% {
     transform: rotate(0.5deg) scale(1.05);
   }
@@ -5944,21 +5944,21 @@ html[data-theme=dark] #ingame_HUD_Waypoints .waypoint.shapeIcon canvas, #ingame_
     bottom: calc(50px * var(--ui-scale));
   }
 }
-@keyframes autogen_anim_uoppm9s_even {
+@keyframes autogen_anim_uvuhkr6_even {
   50% {
     transform: translateX(-100%);
   }
 }
-@keyframes autogen_anim_uoppm9s_odd {
+@keyframes autogen_anim_uvuhkr6_odd {
   50% {
     transform: translateX(-100%);
   }
 }
 #ingame_HUD_InteractiveTutorial.animEven {
-  animation: autogen_anim_uoppm9s_even 0.5s ease-in-out;
+  animation: autogen_anim_uvuhkr6_even 0.5s ease-in-out;
 }
 #ingame_HUD_InteractiveTutorial.animOdd {
-  animation: autogen_anim_uoppm9s_odd 0.5s ease-in-out;
+  animation: autogen_anim_uvuhkr6_odd 0.5s ease-in-out;
 }
 #ingame_HUD_InteractiveTutorial .title {
   color: #fff;
@@ -6271,9 +6271,9 @@ html[data-theme=dark] #ingame_HUD_ShapeViewer .content .layer .quad::after, #ing
   margin-top: calc(15px * var(--ui-scale));
 }
 #ingame_HUD_StandaloneAdvantages .lowerBar .otherCloseButton[data-btn-variant=prod] {
-  animation: autogen_anim_uoppm9u 11s ease-in-out !important;
+  animation: autogen_anim_uvuhkrh 11s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppm9u {
+@keyframes autogen_anim_uvuhkrh {
   0% {
     opacity: 0.05;
   }
@@ -6285,9 +6285,9 @@ html[data-theme=dark] #ingame_HUD_ShapeViewer .content .layer .quad::after, #ing
   }
 }
 #ingame_HUD_StandaloneAdvantages .lowerBar .otherCloseButton[data-btn-variant=steam-demo] {
-  animation: autogen_anim_uoppma3 5s ease-in-out !important;
+  animation: autogen_anim_uvuhkrk 5s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppma3 {
+@keyframes autogen_anim_uvuhkrk {
   0% {
     opacity: 0.05;
   }
@@ -6348,9 +6348,9 @@ html[data-theme=dark] #ingame_HUD_ShapeViewer .content .layer .quad::after, #ing
   box-shadow: 0 calc(3px * var(--ui-scale)) calc(10px * var(--ui-scale)) rgba(96, 163, 136, 0.5);
   overflow: visible;
   border-radius: calc(6px * var(--ui-scale));
-  animation: autogen_anim_uoppmay 1s ease-in-out infinite !important;
+  animation: autogen_anim_uvuhkrv 1s ease-in-out infinite !important;
 }
-@keyframes autogen_anim_uoppmay {
+@keyframes autogen_anim_uvuhkrv {
   50% {
     transform: scale(1.02, 1.03);
   }
@@ -6853,9 +6853,9 @@ html[data-theme=dark] #ingame_HUD_PuzzlePlayTitle, #ingame_HUD_PuzzlePlayTitle[d
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  animation: autogen_anim_uoppmb5 0.1s ease-in-out !important;
+  animation: autogen_anim_uvuhks0 0.1s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppmb5 {
+@keyframes autogen_anim_uvuhks0 {
   0% {
     opacity: 0;
   }
@@ -6863,7 +6863,7 @@ html[data-theme=dark] #ingame_HUD_PuzzlePlayTitle, #ingame_HUD_PuzzlePlayTitle[d
 #ingame_HUD_PuzzleCompleteNotification > .dialog {
   border-radius: calc(6px * var(--ui-scale));
   padding: calc(30px * var(--ui-scale));
-  animation: autogen_anim_uoppmbf 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhks3 0.5s ease-in-out !important;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -6871,7 +6871,7 @@ html[data-theme=dark] #ingame_HUD_PuzzlePlayTitle, #ingame_HUD_PuzzlePlayTitle[d
   color: #fff;
   text-align: center;
 }
-@keyframes autogen_anim_uoppmbf {
+@keyframes autogen_anim_uvuhks3 {
   0% {
     opacity: 0;
   }
@@ -6886,9 +6886,9 @@ html[data-theme=dark] #ingame_HUD_PuzzlePlayTitle, #ingame_HUD_PuzzlePlayTitle[d
   font-size: calc(30px * var(--ui-scale));
   margin-bottom: calc(40px * var(--ui-scale));
   color: #66bb6a !important;
-  animation: autogen_anim_uoppmc8 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhkse 0.5s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppmc8 {
+@keyframes autogen_anim_uvuhkse {
   0% {
     transform: translateY(-50vh);
   }
@@ -6900,13 +6900,13 @@ html[data-theme=dark] #ingame_HUD_PuzzlePlayTitle, #ingame_HUD_PuzzlePlayTitle[d
   }
 }
 #ingame_HUD_PuzzleCompleteNotification > .dialog > .contents {
-  animation: autogen_anim_uoppmcz 0.5s ease-in-out !important;
+  animation: autogen_anim_uvuhksr 0.5s ease-in-out !important;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
 }
-@keyframes autogen_anim_uoppmcz {
+@keyframes autogen_anim_uvuhksr {
   0% {
     transform: translateX(-100vw);
   }
@@ -6946,9 +6946,9 @@ html[data-theme=dark] #ingame_HUD_PuzzlePlayTitle, #ingame_HUD_PuzzlePlayTitle[d
 }
 #ingame_HUD_PuzzleCompleteNotification > .dialog > .contents > .stepLike > .buttons > button.active {
   background-color: #ef5072 !important;
-  animation: autogen_anim_uoppmdw 0.3s ease-in-out !important;
+  animation: autogen_anim_uvuhktq 0.3s ease-in-out !important;
 }
-@keyframes autogen_anim_uoppmdw {
+@keyframes autogen_anim_uvuhktq {
   0% {
     transform: scale(0);
   }
