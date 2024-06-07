@@ -6,7 +6,16 @@ self.addEventListener('install', event => {
         cache.addAll([
             '/',
             '/bundle.js',
-            '/main.css'
+            '/main.css',
+            '/favicon.ico',
+            '/res/fonts/GameFont.woff2',
+            '/res/sounds/music/menu.mp3',
+            '/res/sounds/music/puzzle-full.mp3',
+            '/res/sounds/music/theme-full.mp3',
+            '/res/sounds/sfx.mp3',
+            '/res/ui/building_icons/analyzer.png',
+            '/res/ui/building_icons/balancer.png',
+            '/res/ui/building_icons/belt.png'
         ]);
     })());
 });
