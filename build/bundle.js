@@ -26,11 +26,7 @@
         )
     },
     __webpack_require__.t=function(e,t) {
-        if(1&t&&(e=__webpack_require__(e)),8&t)return e;
-        if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;
-        var r=Object.create(null);
-        
-        return r
+        return Object.create(null)
     },
     __webpack_require__.n=function(e) {
         var t=e&&e.__esModule?function getDefault() {
